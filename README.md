@@ -1,2 +1,9 @@
 # CODSOFT
 All tasks during CODSOFT Internship
+*JAVA Programming Internship*
+#TASK 1
+NUMBER GAME
+#TASK 2
+STUDENT GRADE CALCULATOR
+#TASK 4
+CURRENCY CONVERTER
